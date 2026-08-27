@@ -1,10 +1,10 @@
 {
   "date": "2026-08-27",
-  "revenue": 38132,
-  "backendApiCost": 4567,
-  "backendApiCostPct": 12,
+  "revenue": 41924,
+  "backendApiCost": 4957,
+  "backendApiCostPct": 11.8,
   "metaAvailable": false,
   "metaSpendInclGst": null,
-  "realProfit": 33565,
+  "realProfit": 36967,
   "note": "Meta ad spend not yet included -- META_ADS_ACCESS_TOKEN not configured yet. realProfit here is Revenue - Backend API Cost only, NOT the full Real Profit."
 }
