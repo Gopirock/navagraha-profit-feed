@@ -1,17 +1,17 @@
 {
   "date": "2026-09-15",
-  "revenue": 2962,
-  "backendApiCost": 375,
-  "backendApiCostPct": 12.7,
+  "revenue": 4095,
+  "backendApiCost": 496,
+  "backendApiCostPct": 12.1,
   "metaAvailable": false,
   "metaSpendInclGst": null,
-  "realProfit": 2587,
+  "realProfit": 3599,
   "note": "Meta ad spend not yet included -- META_ADS_ACCESS_TOKEN not configured yet. realProfit here is Revenue - Backend API Cost only, NOT the full Real Profit.",
   "booksyard": {
     "date": "2026-09-15",
-    "revenue": 398,
-    "orders": 2,
+    "revenue": 875,
+    "orders": 4,
     "backendCostPct": 5,
-    "backendCost": 20
+    "backendCost": 44
   }
 }
