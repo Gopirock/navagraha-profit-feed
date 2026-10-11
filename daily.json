@@ -22,9 +22,9 @@
   "note": "Meta ad spend not yet included -- META_ADS_ACCESS_TOKEN not configured yet. realProfit here is Revenue - Backend API Cost only, NOT the full Real Profit.",
   "booksyard": {
     "date": "2026-10-12",
-    "revenue": 6815,
-    "orders": 22,
+    "revenue": 6914,
+    "orders": 23,
     "backendCostPct": 5,
-    "backendCost": 341
+    "backendCost": 346
   }
 }
