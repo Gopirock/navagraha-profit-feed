@@ -1,30 +1,30 @@
 {
   "date": "2026-11-28",
-  "revenue": 33820,
-  "backendApiCost": 3461,
-  "backendApiCostPct": 10.2,
+  "revenue": 42357,
+  "backendApiCost": 4167,
+  "backendApiCostPct": 9.8,
   "backendCostBreakdown": {
-    "claude": 795,
-    "paymentFee": 609,
-    "pdf": 245,
+    "claude": 1015,
+    "paymentFee": 762,
+    "pdf": 295,
     "vedicAstro": 183,
-    "sarvam": 847,
+    "sarvam": 1044,
     "astrologyApi": 0,
     "cloudflare": 44,
     "wati": 333,
     "email": 67,
-    "buffer": 338,
+    "buffer": 424,
     "bufferPct": 1
   },
   "metaAvailable": false,
   "metaSpendInclGst": null,
-  "realProfit": 30359,
+  "realProfit": 38190,
   "note": "Meta ad spend not yet included -- META_ADS_ACCESS_TOKEN not configured yet. realProfit here is Revenue - Backend API Cost only, NOT the full Real Profit.",
   "booksyard": {
     "date": "2026-11-28",
-    "revenue": 67191,
-    "orders": 292,
+    "revenue": 82505,
+    "orders": 352,
     "backendCostPct": 5,
-    "backendCost": 3360
+    "backendCost": 4125
   }
 }
